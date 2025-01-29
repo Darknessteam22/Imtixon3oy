@@ -120,7 +120,7 @@ body{
             align-items: center;
 }
 
-.btn1-0{
+.btn1{
     width: 100px;
     height: 40px;
     border: 1px solid lime;
@@ -131,9 +131,10 @@ body{
     -webkit-transition: .5s;
     -o-transition: .5s;
     transition: .5s;
+    font-family: "p600";
 }
 
-.btn1-0:hover{
+.btn1:hover{
     background-color: white;
     color: lime;
     -webkit-transition: .5s;
